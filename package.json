@@ -15,6 +15,7 @@
     "@vanilla-extract/css-utils": "^0.1.6",
     "@vanilla-extract/vite-plugin": "^5.1.1",
     "clsx": "^2.1.1",
+    "firebase": "^12.6.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-icons": "^5.5.0",
